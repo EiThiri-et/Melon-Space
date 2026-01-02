@@ -1,2 +1,3 @@
 # Melon-Space
-This is a capstone project for design system.
+A scalable design system designed for eCommerce, learning hubs, and content-driven fashion platforms, ensuring consistency, efficiency, and a unified user experience.
+
